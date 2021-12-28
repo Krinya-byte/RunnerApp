@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/drawable/btn_toggle.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/layout/activity_main.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/layout/activity_maps.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/layout/activity_running_list.xml" value="0.25" />
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/layout/activity_start_acivity.xml" value="0.1" />
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/layout/fragment_activity_change.xml" value="0.25" />
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/layout/run_row_view.xml" value="0.67" />
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/menu/menu.xml" value="0.271875" />
+        <entry key="..\:/Users/torok/AndroidStudioProjects/RunnerApp/app/src/main/res/menu/menu_running_list.xml" value="0.3435897435897436" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

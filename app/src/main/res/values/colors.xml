@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="purple_200">#FFBB86FC</color>-->
+<!--    <color name="purple_500">#FF6200EE</color>-->
+<!--    <color name="purple_700">#FF3700B3</color>-->
+<!--    <color name="teal_200">#FF03DAC5</color>-->
+<!--    <color name="teal_700">#FF018786</color>-->
+<!--    <color name="black">#FF000000</color>-->
+<!--    <color name="white">#FFFFFFFF</color>-->
+<!--    <color name="orange_dark">#FF3C00</color>-->
+<!--    <color name="apricot">#FED0BB</color>-->
+<!--    <color name="old_burgundy">#41292C</color>-->
+<!--    <color name="opal">#A3C4BC</color>-->
+<!--    <color name="slate_gray">#76818E</color>-->
+<!--    <color name="indigo_dye">#08415C</color>-->
+<!--    <color name="metallic_seaweed">#388697</color>-->
+<!--    <color name="rhythm">#827191</color>-->
+<!--    <color name="claret">#7D1D3F</color>-->
+<!--    <color name="seal_brown">#512500</color>-->
+    <color name="primaryDayColor">#ff7043</color>
+    <color name="primaryDayLightColor">#ffa270</color>
+    <color name="primaryDayDarkColor">#c63f17</color>
+    <color name="secondaryDayColor">#ff7043</color>
+    <color name="secondaryDayLightColor">#ffa270</color>
+    <color name="secondaryDayDarkColor">#c63f17</color>
+    <color name="primaryDayTextColor">#4e342e</color>
+    <color name="secondaryDaTextColor">#000000</color>
+    <color name="primaryColor">#880e4f</color>
+    <color name="primaryLightColor">#bc477b</color>
+    <color name="primaryDarkColor">#560027</color>
+    <color name="secondaryColor">#c2185b</color>
+    <color name="secondaryLightColor">#fa5788</color>
+    <color name="secondaryDarkColor">#8c0032</color>
+    <color name="primaryTextColor">#ffab91</color>
+    <color name="secondaryTextColor">#000000</color>
+</resources>
